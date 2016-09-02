@@ -5,3 +5,9 @@ tomatos
 cheese
 olives
 mushrooms
+
+Direction:
+make dough
+spread sauce
+sprinkle cheese
+
